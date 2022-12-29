@@ -1,11 +1,16 @@
 _repo: The-Aneroid-Barometer-Its-Instruction-and-Use_69513
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69513-h/images/cover.jpg
 creator:
   author:
     agent_name: Plympton, George Washington
     gutenberg_agent_id: '55294'
     url: http://www.gutenberg.org/2009/agents/55294
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69513#The-Aneroid-Barometer-Its-Instruction-and-Use
 gutenberg_issued: '2022-12-10'
 identifiers:
   gutenberg: '69513'
